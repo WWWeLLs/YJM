@@ -1,29 +1,35 @@
-/*YJM FOOTER*/
+/* YJM FOOTER*/
 
-.footerColor {
-        background-color: papayawhip;
+/* .footerColor {
+        background-color:white;
         color: black;
-}
+}  */
 
-.footerFrame {
+/* .footerFrame {
         position: fixed;
         left: 0;
         bottom: 0;
         width: 100%;
-        text-align: center;
-        margin: 0;
-}
+        margin: 0; 
+}  */
 
-.footerText {
+/* .footerText {
         color:black;
-        text-align: justify;
-        align-content: center;
-        display: grid;
-        grid-template-columns: auto;
-        grid-row-start: 1;
-        grid-gap: 20px;
-        padding: 20px;
 
-      
+} */
+
+
+.footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: right;
+
+
+     }
+.footerAlign{
+
+        text-align: left;
 
 }
